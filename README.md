@@ -1,6 +1,6 @@
 ## Simple_shell
 
-# ![logo](https://pixabay.com/photos/sea-shell-clam-ocean-sea-shells-1162770)
+# ![logo](https://imgur.com/gallery/ep0bgPy)
 
 ## Tasks
 ## File Structure
