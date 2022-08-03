@@ -1,4 +1,7 @@
-# <a href="url"><img src="https://pixabay.com/photos/sea-shell-clam-ocean-sea-shells-1162770" align="middle" width="600" height="600"></a>
+## Simple_shell
+
+# ![logo](https://pixabay.com/photos/sea-shell-clam-ocean-sea-shells-1162770)
+
 ## Tasks
 ## File Structure
 * [AUTHORS](AUTHORS) - List of contributors to this repository
