@@ -6,4 +6,4 @@
 ## File Structure
 * [AUTHORS](AUTHORS) - List of contributors to this repository
 
-* [README](READMD.md) - README.md repository
+* [README.md](READMD.md) - README.md repository
